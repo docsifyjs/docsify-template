@@ -21,7 +21,7 @@ To host this template on GitHub Pages do the following:
 
 #### Editing Content
 
-How about editing the content of your new Docsify site on GitHub Pages? All you need to do is edit a source Markdown page (for example,  **README.md**) by viewing that page and tapping the **Pencil Icon**, then saving any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
 
 ### Viewing Locally 
 Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
